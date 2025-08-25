@@ -18,6 +18,8 @@ All source files are created in **KiCad**.
 
 
 ---
+### Schema
+<img width="1257" height="886" alt="image" src="https://github.com/user-attachments/assets/10a2130b-dd5b-4a3a-8b4d-6cd0088040cf" />
 
 ## ⚡ Features
 - Microcontroller: **ESP32-WROOM-32**
